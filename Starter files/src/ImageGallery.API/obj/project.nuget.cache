@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "h72WZ8sPyJhhnS+6KBo2dI+nTQzMIdrdliS9gHcVC7Yj2XmZc0QZbdZ2S7YAQVDgAN3cc251gxSdWJortVO1TQ==",
+  "dgSpecHash": "K65rhpkCAyf3xR8CCH8EQ9jAnut4loCyD+V2dFTa3jErmAv6q/AD3Dd+BKzsDSyaoRKVVNYn5WWc8wJlUeG4DQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mike\\Source\\Repos\\mikemarango\\SecuringAspNetCore3WithOAuth2AndOIDC\\Starter files\\src\\ImageGallery.API\\ImageGallery.API.csproj",
   "expectedPackageFiles": [
