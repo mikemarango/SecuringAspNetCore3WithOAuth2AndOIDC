@@ -1,7 +1,6 @@
 C:\Users\Mike\Source\Repos\mikemarango\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.deps.json
 C:\Users\Mike\Source\Repos\mikemarango\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.dll
 C:\Users\Mike\Source\Repos\mikemarango\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.pdb
-C:\Users\Mike\Source\Repos\mikemarango\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.csprojAssemblyReference.cache
 C:\Users\Mike\Source\Repos\mikemarango\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.csproj.CoreCompileInputs.cache
 C:\Users\Mike\Source\Repos\mikemarango\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.AssemblyInfoInputs.cache
 C:\Users\Mike\Source\Repos\mikemarango\SecuringAspNetCore3WithOAuth2AndOIDC\Starter files\src\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.AssemblyInfo.cs
